@@ -1,2 +1,2 @@
 # hello-world
-hello world test
+This is the README file for the hello-world project.
